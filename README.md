@@ -5,7 +5,7 @@
 
 Unlike traditional keyword counters, this system uses **Advanced Natural Language Processing (NLP)** and **Semantic Analysis** to understand the *content* and *context* of a resume, matching it effectively against specific Job Descriptions (JDs).
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=AI+Resume+Analyzer+Dashboard) *(Replace with actual screenshot)*
+![Project Screenshot](assets/screenshot.png) *(Save your screenshot as 'screenshot.png' inside the 'assets' folder)*
 
 ## ✨ Key Features
 
