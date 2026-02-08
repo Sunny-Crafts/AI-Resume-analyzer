@@ -51,21 +51,5 @@ Unlike traditional keyword counters, this system uses **Advanced Natural Languag
 4.  **Report**: A detailed score and actionable feedback are generated.
 5.  **Improve**: User updates their resume based on AI suggestions.
 
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/ai-resume-analyzer.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python app.py
-```
-
-## 🤝 Contributing
-Contributions are welcome! Please fork the repository and submit a Pull Request.
-
 ---
 *Built with ❤️ by Sunny Yadav*
